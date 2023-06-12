@@ -1,5 +1,5 @@
 class Todo {
-  // 1
+  // 1: properties
   id: string;
   text: string;
 
